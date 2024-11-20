@@ -1,6 +1,10 @@
-Here’s an example documentation for your GitHub repository detailing **FCFS (First Come First Serve)** implementation and explanation of the main components:
+# CPU Scheduling Algorithms
 
----
+## Table of Contents
+1. [FCFS (First Come First Serve)](#fcfs-first-come-first-serve)
+2. [SJF (Shortest Job First)](#sjf-shortest-job-first)
+3. [Round Robin (RR)](#round-robin-rr)
+
 
 # FCFS (First Come First Serve) Scheduling Algorithm
 
