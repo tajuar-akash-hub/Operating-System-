@@ -8,7 +8,7 @@
 
 # FCFS (First Come First Serve) Scheduling Algorithm
 
-[Full Explanation of FCFS](#fcfs-first-come-first-serve
+[Full Explanation of FCFS](#fcfs-first-come-first-serve)
 
 ## Introduction
 
